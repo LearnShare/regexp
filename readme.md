@@ -33,23 +33,19 @@ RegExp in JavaScript
 
 Object RegExp
 
-```javascript
 	// 寻找 string 中所有匹配的结果，以数组返回
 	regexp.exec(string);
 	// 测试 string 是否匹配
-	regexp.text(string);
-```
+	regexp.test(string);
 
 Object String
 
-```javascript
 	// 寻找 string 中所有匹配的结果，以数组返回
 	string.match(regexp);
 	// 寻找 string 中所有匹配的结果，并替换为指定内容
 	string.replace(regexp, newString);
 	// 寻找 string 中第一个匹配结果的位置
 	string.search(regexp);
-```
 
 三、 语法
 ----
