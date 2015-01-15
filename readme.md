@@ -50,6 +50,11 @@ Object String
 三、 语法
 ----
 
++ [MDN: RegExp](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
++ [Adobe: RegExp](http://help.adobe.com/zh_CN/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b90204-7ea9.html)
++ [MSDN: RegExp](http://msdn.microsoft.com/zh-cn/library/vstudio/ae5bf541(v=vs.100).aspx)
++ [Wiki: RegExp](http://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+
 ###1. attributes
 
 + i 忽略大小写(ignoreCase)
@@ -59,4 +64,5 @@ Object String
 三个属性可以任意组合。
 
 ###2. pattern
+
 
