@@ -179,3 +179,19 @@ tests:
 	255.256.255.255
 
 reg: `/^(((25[0-5])|(2[0-4]\d)|(1?\d{1,2}))\.){3}((25[0-5])|(2[0-4]\d)|(1?\d{1,2}))$/gm`
+
+###2. Email
+
+xxx@xx.xx
+
++ xxx: (A~Z/a~z/0~9/./_/-)
++ xx: any sub domain
++ x: top domain (A~Z/a~z >= 2)
+
+###3. Domain
+
+xxx.xx
+
+###4. URL
+
+xxxx://xxx.xx/x
